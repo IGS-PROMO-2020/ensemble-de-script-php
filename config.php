@@ -1,6 +1,6 @@
 <?php
 //--------- YOUR MYSQL CONNECTION SETTINGS
-$servername = "localhost";
+$servername = "localhost"; 
 $database = "";
 $username = "";
 $password = "";
